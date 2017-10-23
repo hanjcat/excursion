@@ -1,4 +1,5 @@
 html {
+  background-color:Black;
   font-family:Verdana;
   text-align:center;
 }
@@ -25,5 +26,4 @@ p {
 }
 
 img {
-  background-color:Black;
 }
